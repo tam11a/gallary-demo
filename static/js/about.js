@@ -1,4 +1,4 @@
-var imageLocation = '/static/images/'
+var imageLocation = 'static/images/'
 var images = [
     'erika-giraud-6oUY_Hnwmv8-unsplash.jpg',
     'moritz-kindler-RvBUKkT_i1Y-unsplash.jpg',
